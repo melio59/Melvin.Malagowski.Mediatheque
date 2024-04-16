@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\model\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\model\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857470C4-9FEE-4F36-B5AA-CF1FD0EA9EBC}|Mediatheque.Cli\\Mediatheque.Cli.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857470C4-9FEE-4F36-B5AA-CF1FD0EA9EBC}|Mediatheque.Cli\\Mediatheque.Cli.csproj|solutionrelative:mediatheque.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\mediatheque.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\mediatheque.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.coretests\\mediatheque.coretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|solutionrelative:mediatheque.coretests\\mediatheque.coretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\service\\mediathequeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\service\\mediathequeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\model\\objetdepret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\model\\objetdepret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\model\\jeuxdesociete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\model\\jeuxdesociete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\inotationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\inotationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|c:\\users\\theme\\desktop\\c\\mediathequesolution\\mediatheque.core\\service\\pretservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72C299-ADDF-4EEE-B52C-58A6DEC40E02}|Mediatheque.Core\\Mediatheque.Core.csproj|solutionrelative:mediatheque.core\\service\\pretservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Cli\\Program.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Cli\\Program.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Cli\\Program.cs",
+              "RelativeToolTip": "Mediatheque.Cli\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:14:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mediatheque.Core",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Mediatheque.Core.csproj",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Mediatheque.Core.csproj",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Mediatheque.Core.csproj",
+              "RelativeToolTip": "Mediatheque.Core\\Mediatheque.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T10:13:48.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mediatheque.CoreTests",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj",
+              "RelativeDocumentMoniker": "Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj",
+              "RelativeToolTip": "Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T10:13:43.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\CD.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Model\\CD.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\CD.cs",
+              "RelativeToolTip": "Mediatheque.Core\\Model\\CD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:40:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JeuxDeSociete.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\JeuxDeSociete.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Model\\JeuxDeSociete.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\JeuxDeSociete.cs",
+              "RelativeToolTip": "Mediatheque.Core\\Model\\JeuxDeSociete.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:03:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediathequeService.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Service\\MediathequeService.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Service\\MediathequeService.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Service\\MediathequeService.cs",
+              "RelativeToolTip": "Mediatheque.Core\\Service\\MediathequeService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:13:14.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotationService.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\INotationService.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\INotationService.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\INotationService.cs",
+              "RelativeToolTip": "Mediatheque.Core\\INotationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:16:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjetDePret.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\ObjetDePret.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Model\\ObjetDePret.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Model\\ObjetDePret.cs",
+              "RelativeToolTip": "Mediatheque.Core\\Model\\ObjetDePret.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:52:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PretService.cs",
+              "DocumentMoniker": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Service\\PretService.cs",
+              "RelativeDocumentMoniker": "Mediatheque.Core\\Service\\PretService.cs",
+              "ToolTip": "C:\\Users\\theme\\Desktop\\c\\MediathequeSolution\\Mediatheque.Core\\Service\\PretService.cs",
+              "RelativeToolTip": "Mediatheque.Core\\Service\\PretService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:48:14.952Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

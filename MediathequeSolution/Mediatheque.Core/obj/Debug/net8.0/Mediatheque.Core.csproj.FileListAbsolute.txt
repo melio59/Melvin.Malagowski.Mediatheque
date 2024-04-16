@@ -1,0 +1,14 @@
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.deps.json
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.dll
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.pdb
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfoInputs.cache
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfo.cs
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.csproj.CoreCompileInputs.cache
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.dll
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\refint\Mediatheque.Core.dll
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.pdb
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\ref\Mediatheque.Core.dll
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.runtimeconfig.json
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.genruntimeconfig.cache
+C:\Users\theme\Desktop\c\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.csproj.AssemblyReference.cache
